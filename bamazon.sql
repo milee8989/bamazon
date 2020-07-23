@@ -15,3 +15,5 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("skirt", "clothing", 79.99, 10),("pajamas", "clothing", 24.99, 5),("candle", "decor", 15.00, 3),("dress", "clothing", 98.99, 7),("wallet", "accessories", 249.99, 5),("earrings", "jewelry", 49.99, 2), ("sofa", "furniture", 500, 2),("sunglasses", "accessories", 159.99, 6),("pants", "clothing", 39.00, 3);
 
 select * from products;
+
+-- dldldldl
